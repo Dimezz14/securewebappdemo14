@@ -1,7 +1,6 @@
 # Secure Web App Demo - Azure Static Web Apps
 
 [![Azure Static Web Apps](https://img.shields.io/badge/Azure%20Static%20Web%20Apps-Free-blue)](https://azure.microsoft.com/en-us/services/app-service/static/)
-[![GitHub](https://img.shields.io/github/license/Dimezz14/securewebappdemo14)](https://github.com/Dimezz14/securewebappdemo14/blob/main/LICENSE)
 
 ## Project Overview
 
